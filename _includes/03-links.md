@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[YouTube Channel](https://www.youtube.com/channel/UCs6P9HgxCrbwI-yIaEEi4zg/about)
