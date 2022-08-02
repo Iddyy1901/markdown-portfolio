@@ -1,5 +1,3 @@
-*PC's
-*Coding
-*Video Games
- *CS:GO
- *Valorant
+- PC's
+- Video Games | CS:GO/Valorant
+- Coding
