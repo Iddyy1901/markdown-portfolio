@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+*PC's
+*Coding
+*Video Games
+ *CS:GO
+ *Valorant
